@@ -4,7 +4,8 @@ Task:  To create a Vanilla CNN for MNIST Handwritten Digit Classification.
 Dataset : THE MNIST DATABASE of handwritten digit
                     http://yann.lecun.com/exdb/mnist/ 
 
-Data Augmentation :  Perform data augmentation to increase the dataset size. eg:
+Data Augmentation :  Perform data augmentation to increase the dataset size. 
+eg:
 ●	Shift (Left, Right, Top, Down) 
 ●	Flip 
 ●	Rotate 
