@@ -5,20 +5,32 @@ Dataset : THE MNIST DATABASE of handwritten digit
                     http://yann.lecun.com/exdb/mnist/ 
 
 Data Augmentation :  Perform data augmentation to increase the dataset size. 
+
 eg:
 ●	Shift (Left, Right, Top, Down) 
+
 ●	Flip 
+
 ●	Rotate 
 
-Network Architecture : Vanilla CNN 
+
+Network Architecture : Vanilla CNN
+
 ●	 Layer 1: Convolution 
+
 ●	 Layer 2: BatchNormalization
+
 ●	 Layer 3: Dense 
 
-Hyperparameter Tuning : Perform Hyperparameter tuning for optimal results. eg:
+Hyperparameter Tuning : Perform Hyperparameter tuning for optimal results.
+
+eg:
 ●	No of units for each layer
+
 ●	Adjust the learning rate 
+
 ●	Choose optimizer & loss function
+
 ●	Batch size & number of epochs
 
 Classification report for the above task.
